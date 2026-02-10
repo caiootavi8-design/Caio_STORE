@@ -1,0 +1,7 @@
+{
+  "name": "Caio_STORE AI Social Growth",
+  "description": "A premium social media growth platform featuring an AI-powered growth assistant to help influencers and micro-businesses scale their Instagram presence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
